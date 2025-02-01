@@ -81,6 +81,7 @@ Une démonstration des outils et technologies mis à disposition, avec un focus 
 
 **Note Finale /100**
 
+test confirmé
 ## 🤝 Contributeurs 
 Un immense merci à Creaform pour son soutien et sa contribution à StarHACK 2025. Leur engagement nous permet de proposer un hackathon enrichissant et de qualité.
 
